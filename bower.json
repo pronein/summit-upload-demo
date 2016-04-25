@@ -1,0 +1,11 @@
+{
+  "name": "summit-upload-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "~2.2.2",
+    "angular": "^1.5.5",
+    "angular-ui-router": "ui-router#^0.2.18",
+    "angular-material": "^1.0.7",
+    "font-awesome": "fontawesome#^4.6.1"
+  }
+}
