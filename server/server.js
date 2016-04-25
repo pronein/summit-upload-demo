@@ -7,6 +7,8 @@ var server = express();
 server.set('view engine', 'ejs');
 server.set('views', __dirname + '/views');
 
+server.use(express.static('client'));
+
 /*
  * Setup request routes
  */
